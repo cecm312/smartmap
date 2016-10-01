@@ -9,12 +9,10 @@
     "gulp-concat": "^2.2.0",
     "gulp-minify-css": "^0.3.0",
     "gulp-rename": "^1.2.0",
-<<<<<<< HEAD
-    "gulp-sass": "^1.3.3",
+
+    "gulp-sass": "^2.3.2",
     "node-sass": "^3.10.1"
-=======
-    "gulp-sass": "^2.3.2"
->>>>>>> f7a82f6192d9291647e2f3f74de10258b19b2970
+
   },
   "devDependencies": {
     "bower": "^1.3.3",
